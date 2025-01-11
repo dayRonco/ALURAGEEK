@@ -28,6 +28,8 @@ La tecnoogia implementada so0n: html, css, js, node.js, visual studio code, chat
 
 La pagina aun se encuentra optimizanndose para una mejor experiencia. Aun faltan cosas por agregar como una barra de busqueda para el filtrado por palabras claves, el poder editar eementos ya cargados, entre otros.
 
+servidor mockApi:https://6780ad1085151f714b076db6.mockapi.io/productos
+
 autora: Dayana Ronco
 
 
