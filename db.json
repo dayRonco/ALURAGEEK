@@ -1,0 +1,59 @@
+{ 
+"productos": [
+    {
+        "id": 1,
+      "nombre": "Mariposa Rosa",
+      "precio": 1800,
+      "imagen": "https://aretoaccesorios.com/img/421199_20241202050903.jpg"
+    },
+    {
+        "id": 2,
+      "nombre": "Corazon con Alas",
+      "precio": 16000,
+      "imagen": "https://aretoaccesorios.com/img/421191_20241202050457.jpg"
+    },
+    {
+        "id": 3,
+      "nombre": "Serpiente microcristal",
+      "precio": 20000,
+      "imagen": "https://aretoaccesorios.com/img/421183_20241115054657.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Reloj Compass Blanco",
+        "precio": 68000,
+        "imagen": "https://aretoaccesorios.com/img/811119_20241108065027.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Reloj Rosa",
+        "precio": 72000,
+        "imagen": "https://aretoaccesorios.com/img/811088_20241108055035.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Reloj Negro",
+        "precio": 52000,
+        "imagen": "https://aretoaccesorios.com/img/811087_20241112122112.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Conjunto Colibri",
+        "precio": 13000,
+        "imagen": "https://aretoaccesorios.com/img/0-3T4_20241128010838.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Mriposa con strass",
+        "precio": 14500,
+        "imagen": "https://aretoaccesorios.com/img/0-3Q1_20241115032901.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Clave de sol",
+        "precio": 13000,
+        "imagen": "https://aretoaccesorios.com/img/0-3T6_20241128010854.jpg"
+    }
+]
+
+}
